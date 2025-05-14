@@ -1,0 +1,12 @@
+PATCH http://localhost:3000/users/
+Content-Type: application/json
+
+
+
+
+{
+    
+  "email": "joehn@doe.com",
+  "password": "Pasesword123##"
+  
+}
